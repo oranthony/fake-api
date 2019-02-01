@@ -37,8 +37,8 @@
 			"author": {
 				"$oid": "5c51776e875d8a9b51e335a6"
 			},
-			"name": "my idea",
-			"abstract": "abstract of my idea",
+			"name": "Team building escape game",
+			"abstract": "Tu es nouvel arrivant ? Viens rencontrer les collaborateurs de Thales Services au cours d'un évènement ludique !",
 			"creationDate": {
 				"$date": "2019-01-30T10:07:45.340Z"
 			},
