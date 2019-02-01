@@ -17,5 +17,32 @@
 			"$date": "2019-01-30T10:07:45.340Z"
 		},
 		"__v": 0
-	}]
-}
+	},
+		{
+			"_id": {
+				"$oid": "5c517771875d8a9b51e335a7"
+			},
+			"tags": [
+				{
+					"title": "SOPHIA"
+				},
+				{
+					"title": "RH"
+				}
+			],
+			"anonymous": false,
+			"requestedCollabs": 0,
+			"committedCollabs": [],
+			"status": "_on_acceptance",
+			"author": {
+				"$oid": "5c51776e875d8a9b51e335a6"
+			},
+			"name": "my idea",
+			"abstract": "abstract of my idea",
+			"creationDate": {
+				"$date": "2019-01-30T10:07:45.340Z"
+			},
+			"__v": 0
+		}
+		]
+	}
