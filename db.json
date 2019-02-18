@@ -33,6 +33,7 @@
 			"anonymous": false,
 			"requestedCollabs": 0,
 			"committedCollabs": [],
+			"eventDate": "2019-01-30T10:07:45.340Z",
 			"status": "_on_acceptance",
 			"author": {
 				"$oid": "5c51776e875d8a9b51e335a6"
